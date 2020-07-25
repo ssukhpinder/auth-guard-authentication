@@ -8,7 +8,8 @@ export class AuthGuardService {
   constructor() {
   }
 
-  getToken(){
+  getToken() {
+    //Write authentication service/logic here.
     return true;
   }
 }
