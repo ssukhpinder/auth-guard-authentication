@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "auth-guard-authentication"
+    }
+  },
+  "defaultProject": "auth-guard-authentication",
+  "cli": {
+    "analytics": "774f899e-42a5-472a-90af-4324ec4a0eb0"
+  }
 }
